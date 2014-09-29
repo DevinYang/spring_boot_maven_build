@@ -1,4 +1,4 @@
 spring_boot_maven_build
 =======================
 
-example project for build number of spring boot parent project
+example project for build number and spring boot parent project

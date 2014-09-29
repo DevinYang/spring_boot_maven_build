@@ -167,7 +167,7 @@
 
 					<!-- @since v2.0.4 -->
 					<!-- Controls the length of the abbreviated git commit it (git.commit.id.abbrev) Defaults to `7`. `0` carries the special meaning. Maximum value is `40`, because of max SHA-1 length. -->
-					<abbrevLength>7</abbrevLength>
+					<abbrevLength>10</abbrevLength>
 
 					<!-- @since 2.1.8 -->
 					<!-- skip the plugin execution completely. This is useful for e.g. profile activated plugin invocations or to use properties to enable / disable pom features. Default value is 

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<configuration>
+    <property name="LOG_FILE" value="logs/first-child.log" />
+    <include resource="org/springframework/boot/logging/logback/base.xml"/>
+    <logger name="org.springframework.boot" level="DEBUG"/>
+    <logger name="org.springframework.security" level="ERROR"/>
+    <logger name="org.glassfish.jersey" level="DEBUG"/>
+   
+</configuration>

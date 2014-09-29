@@ -6,7 +6,7 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<artifactId>first-child</artifactId>
-
+	<description>first child inheriting parent build</description>
 	<properties>
 		<start-class>Application</start-class>
 	</properties>

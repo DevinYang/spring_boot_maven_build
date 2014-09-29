@@ -17,10 +17,10 @@
 	</properties>
 
 	<scm>
-		<connection>scm:git:file:///d:/EventsDOTcom/MVN_GIT_ALL</connection>
+		<connection>scm:git@github.com:DGopiKrishna/spring_boot_maven_build.git</connection>
 		<tag>HEAD</tag>
-		<url>file:///d:/EventsDOTcom/MVN_GIT_ALL</url>
-		<developerConnection>scm:git:file:///d:/EventsDOTcom/MVN_GIT_ALL</developerConnection>
+		<url>https://github.com/DGopiKrishna/spring_boot_maven_build.git</url>
+		<developerConnection>scm:git@github.com:DGopiKrishna/spring_boot_maven_build.git</developerConnection>
 	</scm>
 
 

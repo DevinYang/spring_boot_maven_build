@@ -145,7 +145,7 @@
 
 					<!-- If you'd like to tell the plugin where your .git directory is, use this setting, otherwise we'll perform a search trying to figure out the right directory. It's better to 
 						add it explicite IMHO. -->
-					<dotGitDirectory>${project.basedir}/../../.git</dotGitDirectory>
+					<dotGitDirectory>${project.basedir}/../../.git</dotGitDirectory> 
 
 					<!-- ALTERNATE SETUP - GENERATE FILE -->
 					<!-- If you want to keep git information, even in your WAR file etc, use this mode, which will generate a properties file (with filled out values) which you can then normally read 
